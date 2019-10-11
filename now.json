@@ -1,5 +1,5 @@
 {
   "builds": [
-    { "src": "**/*", "use": "@now/static" }
+    { "src": "**/*.html", "use": "@now/static" }
   ]
 }
